@@ -1,0 +1,12 @@
+[submodule "EurekaServer_01"]
+	path = EurekaServer_01
+	url = https://github.com/smartTigerCode98/EurekaServer_01.git
+[submodule "EurikaZuul_01"]
+	path = EurikaZuul_01
+	url = https://github.com/smartTigerCode98/EurekaZuul_01.git
+[submodule "EurekaAuthorisation_01"]
+	path = EurekaAuthorisation_01
+	url = https://github.com/smartTigerCode98/EurekaAuthorisation_01.git
+[submodule "EurikaAPI"]
+	path = EurikaAPI
+	url = https://github.com/smartTigerCode98/EurikaAPI.git
